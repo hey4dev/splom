@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>splom</title>
+</head>
+
+<body>
+  <div id="splom"></div>
+  <script src="data.js"></script>
+  <script src="bundle.js"></script>
+  
+  <script>
+    var fileds = ["house_price", "car_price", "labor_rallies", "student_rallies", "trade_rallies", "total_rallies"]
+    var labels = ["house price", "car price", "labor rallies", "student rallies", "trade rallies", "total rallies"]
+    var categoryColor = ["#ff7062", "#00a82d", "#609dfe"]
+
+    new splom.buildSplom('splom', {
+      data: dataAll,
+      options: {
+        fileds: fileds,
+        labels: labels,
+        categoryColor: categoryColor,
+        categoryField: 'year'
+      }
+    })
+  </script>
+</body>
+
+</html>

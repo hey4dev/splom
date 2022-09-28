@@ -1,0 +1,5 @@
+.gridline {
+    stroke: #ffffff;
+    shape-rendering: crispEdges;
+    stroke-opacity: 2;
+}

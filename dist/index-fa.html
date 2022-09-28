@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>splom</title>
+</head>
+
+<body>
+  <div id="my_dataviz"></div>
+  <script src="data-fa.js"></script>
+  <script src="bundle.js"></script>
+
+  <script>
+    var fileds = ["قیمت.سکه", "قیمت.دلار", "تجمعات.کارگری", "تجمعات.دانشجویی", "تجمعات.صنفی", "کل.تجمعات"]
+    var labels = ["قیمت سکه", "قیمت دلار", "تجمعات کارگری", "تجمعات دانشجویی", "تجمعات صنفی", "کل تجمعات"]
+    var categoryColor = ["#ff7062", "#00a82d", "#609dfe"]
+
+    new splom.buildSplom('my_dataviz', {
+      data: dataAll,
+      options: {
+        fileds: fileds,
+        labels: labels,
+        categoryColor: categoryColor,
+        categoryField: 'سال'
+      }
+    })
+  </script>
+</body>
+
+</html>

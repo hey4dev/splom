@@ -1,0 +1,289 @@
+﻿var dataAll = [{
+  "year": "1999",
+  "house_price": 17242647.0588,
+  "car_price": 51663,
+  "labor_rallies": 28,
+  "student_rallies": 2,
+  "trade_rallies": 4,
+  "total_rallies": 103
+}, {
+  "year": "1999",
+  "house_price": 18498333.3333,
+  "car_price": 60976,
+  "labor_rallies": 51,
+  "student_rallies": 2,
+  "trade_rallies": 19,
+  "total_rallies": 206
+}, {
+  "year": "1999",
+  "house_price": 21890000,
+  "car_price": 66582,
+  "labor_rallies": 63,
+  "student_rallies": 4,
+  "trade_rallies": 106,
+  "total_rallies": 392
+}, {
+  "year": "1999",
+  "house_price": 27110416.6667,
+  "car_price": 81250,
+  "labor_rallies": 48,
+  "student_rallies": 1,
+  "trade_rallies": 24,
+  "total_rallies": 210
+}, {
+  "year": "1999",
+  "house_price": 34084800,
+  "car_price": 102708,
+  "labor_rallies": 41,
+  "student_rallies": 2,
+  "trade_rallies": 7,
+  "total_rallies": 184
+}, {
+  "year": "1999",
+  "house_price": 39341904.7619,
+  "car_price": 120493,
+  "labor_rallies": 29,
+  "student_rallies": 1,
+  "trade_rallies": 6,
+  "total_rallies": 108
+}, {
+  "year": "1999",
+  "house_price": 45212500,
+  "car_price": 121996,
+  "labor_rallies": 30,
+  "student_rallies": 11,
+  "trade_rallies": 81,
+  "total_rallies": 307
+}, {
+  "year": "1999",
+  "house_price": 35353684.2105,
+  "car_price": 123500,
+  "labor_rallies": 36,
+  "student_rallies": 8,
+  "trade_rallies": 58,
+  "total_rallies": 286
+}, {
+  "year": "1999",
+  "house_price": 35353684.2105,
+  "car_price": 111061,
+  "labor_rallies": 44,
+  "student_rallies": 4,
+  "trade_rallies": 28,
+  "total_rallies": 197
+}, {
+  "year": "1999",
+  "house_price": 35811304.3478,
+  "car_price": 108454,
+  "labor_rallies": 41,
+  "student_rallies": 5,
+  "trade_rallies": 14,
+  "total_rallies": 154
+}, {
+  "year": "1999",
+  "house_price": 40493913.0435,
+  "car_price": 118300,
+  "labor_rallies": 34,
+  "student_rallies": 3,
+  "trade_rallies": 12,
+  "total_rallies": 160
+}, {
+  "year": "1999",
+  "house_price": 44562500,
+  "car_price": 130323,
+  "labor_rallies": 59,
+  "student_rallies": 2,
+  "trade_rallies": 11,
+  "total_rallies": 199
+}, {
+  "year": "2010",
+  "house_price": 46071176.4706,
+  "car_price": 134135,
+  "labor_rallies": 17,
+  "student_rallies": 0,
+  "trade_rallies": 5,
+  "total_rallies": 71
+}, {
+  "year": "2010",
+  "house_price": 48077600,
+  "car_price": 144001,
+  "labor_rallies": 25,
+  "student_rallies": 1,
+  "trade_rallies": 13,
+  "total_rallies": 157
+}, {
+  "year": "2010",
+  "house_price": 45101904.7619,
+  "car_price": 133362,
+  "labor_rallies": 21,
+  "student_rallies": 1,
+  "trade_rallies": 4,
+  "total_rallies": 108
+}, {
+  "year": "2010",
+  "house_price": 42889230.7692,
+  "car_price": 125505,
+  "labor_rallies": 27,
+  "student_rallies": 2,
+  "trade_rallies": 9,
+  "total_rallies": 142
+}, {
+  "year": "2010",
+  "house_price": 40886400,
+  "car_price": 118750,
+  "labor_rallies": 23,
+  "student_rallies": 2,
+  "trade_rallies": 3,
+  "total_rallies": 119
+}, {
+  "year": "2010",
+  "house_price": 40281250,
+  "car_price": 113765,
+  "labor_rallies": 30,
+  "student_rallies": 2,
+  "trade_rallies": 4,
+  "total_rallies": 111
+}, {
+  "year": "2010",
+  "house_price": 39787916.6667,
+  "car_price": 113928,
+  "labor_rallies": 32,
+  "student_rallies": 3,
+  "trade_rallies": 4,
+  "total_rallies": 144
+}, {
+  "year": "2010",
+  "house_price": 39927391.3043,
+  "car_price": 114579,
+  "labor_rallies": 36,
+  "student_rallies": 2,
+  "trade_rallies": 5,
+  "total_rallies": 520
+}, {
+  "year": "2010",
+  "house_price": 43662800,
+  "car_price": 126722,
+  "labor_rallies": 20,
+  "student_rallies": 5,
+  "trade_rallies": 2,
+  "total_rallies": 88
+}, {
+  "year": "2010",
+  "house_price": 47327307.6923,
+  "car_price": 130753,
+  "labor_rallies": 20,
+  "student_rallies": 14,
+  "trade_rallies": 2,
+  "total_rallies": 105
+}, {
+  "year": "2010",
+  "house_price": 50170833.3333,
+  "car_price": 135349,
+  "labor_rallies": 16,
+  "student_rallies": 1,
+  "trade_rallies": 1,
+  "total_rallies": 81
+}, {
+  "year": "2010",
+  "house_price": 58340476.1905,
+  "car_price": 150653,
+  "labor_rallies": 26,
+  "student_rallies": 0,
+  "trade_rallies": 7,
+  "total_rallies": 113
+}, {
+  "year": "2020",
+  "house_price": 62048421.0526,
+  "car_price": 155444,
+  "labor_rallies": 15,
+  "student_rallies": 0,
+  "trade_rallies": 8,
+  "total_rallies": 70
+}, {
+  "year": "2020",
+  "house_price": 66089583.3333,
+  "car_price": 160430,
+  "labor_rallies": 40,
+  "student_rallies": 0,
+  "trade_rallies": 5,
+  "total_rallies": 142
+}, {
+  "year": "2020",
+  "house_price": 72500000,
+  "car_price": 174200,
+  "labor_rallies": 29,
+  "student_rallies": 1,
+  "trade_rallies": 7,
+  "total_rallies": 119
+}, {
+  "year": "2020",
+  "house_price": 92497307.6923,
+  "car_price": 209365,
+  "labor_rallies": 36,
+  "student_rallies": 2,
+  "trade_rallies": 5,
+  "total_rallies": 158
+}, {
+  "year": "2020",
+  "house_price": 104050400,
+  "car_price": 215418,
+  "labor_rallies": 36,
+  "student_rallies": 2,
+  "trade_rallies": 7,
+  "total_rallies": 142
+}, {
+  "year": "2020",
+  "house_price": 112614000,
+  "car_price": 237377,
+  "labor_rallies": 25,
+  "student_rallies": 4,
+  "trade_rallies": 7,
+  "total_rallies": 152
+}, {
+  "year": "2020",
+  "house_price": 137931739.1304,
+  "car_price": 292610,
+  "labor_rallies": 22,
+  "student_rallies": 5,
+  "trade_rallies": 9,
+  "total_rallies": 131
+}, {
+  "year": "2020",
+  "house_price": 125291304.3478,
+  "car_price": 268402,
+  "labor_rallies": 16,
+  "student_rallies": 2,
+  "trade_rallies": 5,
+  "total_rallies": 122
+}, {
+  "year": "2020",
+  "house_price": 113013076.9231,
+  "car_price": 255041,
+  "labor_rallies": 19,
+  "student_rallies": 4,
+  "trade_rallies": 10,
+  "total_rallies": 131
+}, {
+  "year": "2020",
+  "house_price": 111041880,
+  "car_price": 250225,
+  "labor_rallies": 22,
+  "student_rallies": 2,
+  "trade_rallies": 11,
+  "total_rallies": 177
+}, {
+  "year": "2020",
+  "house_price": 108333800,
+  "car_price": 238348,
+  "labor_rallies": 36,
+  "student_rallies": 1,
+  "trade_rallies": 8,
+  "total_rallies": 223
+}, {
+  "year": "2020",
+  "house_price": 105900409.0909,
+  "car_price": 243862,
+  "labor_rallies": 45,
+  "student_rallies": 1,
+  "trade_rallies": 8,
+  "total_rallies": 187
+}]
