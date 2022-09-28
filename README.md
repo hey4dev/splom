@@ -1,6 +1,9 @@
 # Splom chart with diagonal area chart
+![Screenshot](splom.png)
+
 ## how to use
 can you use chart in html or npm
+
 ### HTML
 Add the following code to the html body
 > Note: `<script src="data.js"></script>` is sample data.
