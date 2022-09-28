@@ -2,7 +2,7 @@
 ![Screenshot](splom.png)
 
 ## how to use
-can you use chart in html or npm
+can use chart in html or npm
 
 ### HTML
 Add the following code to the html body
