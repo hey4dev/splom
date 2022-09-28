@@ -55,6 +55,6 @@ new buildSplom('splom', {
 ```
 
 ## Example
-can use Example chart in the dict folder
+can use Example chart in the dist folder
 > Note: **index-fa.html** is for persian language
 
